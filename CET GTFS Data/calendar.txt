@@ -1,0 +1,15 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+448A2500,Year Round Service (Sat),0,0,0,0,0,1,0,20140101,20180101
+198A2500,Year Round Service (Mon-Fri),1,1,1,1,1,0,0,20140101,20180101
+873A6050,Mt. Bachelor Winter Service (Mon-Fri),1,1,1,1,1,0,0,20161217,20170416
+5261A6258,Route 6 - Construction Detour (Mon-Fri),1,1,1,1,1,0,0,20161212,20171130
+450A6050,Mt. Bachelor Winter Service (Wed),0,0,1,0,0,0,0,20161217,20170416
+452A6050,Mt. Bachelor Winter Service (Mon-Sun),1,1,1,1,1,1,1,20161217,20170416
+5262A6258,Route 6 - Construction Detour (Sat),0,0,0,0,0,1,0,20161212,20171130
+3772A2500,Year Round Service (Mon-Sun),1,1,1,1,1,1,1,20140101,20180101
+1561A6050,"Mt. Bachelor Winter Service (Tues, Thur, Sat-Sun)",0,1,0,1,0,1,1,20161217,20170416
+1562A6050,"Mt. Bachelor Winter Service (Mon, Wed, Fri)",1,0,1,0,1,0,0,20161217,20170416
+5497A6587,Ending 2/5/2017 (Mon-Fri),1,1,1,1,1,0,0,20170101,20170205
+5498A6588,Starting 2/6/2017 (Mon-Fri),1,1,1,1,1,0,0,20170206,20180101
+5259A6256,Route 6 - Normal Routing (Mon-Fri),1,1,1,1,1,0,0,20171201,20180101
+5260A6256,Route 6 - Normal Routing (Sat),0,0,0,0,0,1,0,20171201,20180101

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Places of Interest</title>
+<onlink>https://maps.deschutes.org/arcgis/rest/services/OpenData/PlaceFD/MapServer/2</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This feature class shows point locations for various places in interest in Deschutes County, Oregon including airports, cemeteries, fairgrounds, government buildings, community services buildings, landfills, libraries, observatories, resorts, shopping destinations, stadiums, and museums.</abstract>
+<purpose>Places of Interest in Deschutes County, Oregon.</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-121.838</westbc>
+<eastbc>-120.9151</eastbc>
+<northbc>44.3753</northbc>
+<southbc>43.6651</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Deschutes County</themekey>
+<themekey>Oregon</themekey>
+<themekey>Places of Interest</themekey>
+<themekey>airports</themekey>
+<themekey>cemeteries</themekey>
+<themekey>fairgrounds</themekey>
+<themekey>government buildings</themekey>
+<themekey>community services buildings</themekey>
+<themekey>landfills</themekey>
+<themekey>libraries</themekey>
+<themekey>observatories</themekey>
+<themekey>resorts</themekey>
+<themekey>shopping destinations</themekey>
+<themekey>stadiums</themekey>
+<themekey>museums</themekey>
+<themekey>Open Data</themekey>
+<themekey>Place Feature Dataset</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>The information and maps accessed through this web site provide a visual display for your convenience. Every reasonable effort has been made to assure the accuracy of the maps and associated data. Deschutes County makes no warranty, representation or guarantee as to the content, sequence, accuracy, timeliness or completeness of any of the data provided herein. Deschutes County explicitly disclaims any representations and warranties, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose. Deschutes County shall assume no liability for any errors, omissions, or inaccuracies in the information provided regardless of how caused. Deschutes County assumes no liability for any decisions made or actions taken or not taken by the user of this information or data furnished hereunder.</useconst>
+<datacred>Deschutes County - Information Technology</datacred>
+</idinfo>
+<eainfo>
+<detailed>
+<attr>
+<attrlabl>PLACE_TYPE</attrlabl>
+<attrdef>Type of feature.</attrdef>
+<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>AIRPORT</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>CEMETARY</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>FAIRGROUND</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>GOVERNMENT</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>LANDFILL</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>LIBRARY</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>OBSERVATORY</edomv>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>RESORT</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>SHOPPING</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>STADIUM</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>MUSEUM</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>COMMUNITY SERVICES</edomvd>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Name of the place of interest.</attrdef>
+</attr>
+<attr>
+<attrlabl>TAXLOT</attrlabl>
+<attrdef>Tax lot number associated with the place of interest.</attrdef>
+</attr>
+<attr>
+<attrlabl>ADDRESS</attrlabl>
+<attrdef>Address of the place of interest.</attrdef>
+</attr>
+<attr>
+<attrlabl>CITY</attrlabl>
+<attrdef>City/Community in which the place of interest is located.</attrdef>
+</attr>
+<attr>
+<attrlabl>POINT_X</attrlabl>
+<attrdef>X - Coordinate in feet.</attrdef>
+</attr>
+<attr>
+<attrlabl>POINT_Y</attrlabl>
+<attrdef>Y - Coordinate in feet.</attrdef>
+</attr>
+<attr>
+<attrlabl>MAP_LABEL</attrlabl>
+<attrdef>Text for labeling feature on a map.</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<metainfo>
+<metd>20150827</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+<cntaddr>
+<addrtype>unknown</addrtype>
+<country>AF</country>
+</cntaddr>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

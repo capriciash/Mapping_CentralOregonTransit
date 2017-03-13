@@ -1,0 +1,29 @@
+route_id,direction_id,direction_name
+711,0,Outbound 
+3137,0,No direction
+3138,0,No direction
+524,0,Southbound
+716,0,No direction
+3136,0,No direction
+293,0,Southbound
+4695,0,No direction
+739,0,Up the Mountain
+712,0,No direction
+713,0,Outbound 
+292,0,Southbound
+290,0,Southbound
+291,0,Eastbound
+715,0,No direction
+5917,0,No direction
+382,0,No direction
+710,0,Outbound 
+714,0,No direction
+711,1,Inbound
+524,1,Northbound
+293,1,Northbound
+739,1,Down the Mountain
+713,1,Inbound
+292,1,Northbound
+290,1,Northbound
+291,1,Westbound
+710,1,Inbound

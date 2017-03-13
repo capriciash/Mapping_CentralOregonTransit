@@ -1,0 +1,4 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01,HD01_VD02,HD02_VD02,HD01_VD03,HD02_VD03
+Id,Id2,Geography,Estimate; Aggregate number of vehicles available:,Margin of Error; Aggregate number of vehicles available:,Estimate; Aggregate number of vehicles available: - Owner occupied,Margin of Error; Aggregate number of vehicles available: - Owner occupied,Estimate; Aggregate number of vehicles available: - Renter occupied,Margin of Error; Aggregate number of vehicles available: - Renter occupied
+1500000US410170005002,410170005002,"Block Group 2, Census Tract 5, Deschutes County, Oregon",,,,,$-,$**
+1500000US410170019024,410170019024,"Block Group 4, Census Tract 19.02, Deschutes County, Oregon",,,,,$-,$**

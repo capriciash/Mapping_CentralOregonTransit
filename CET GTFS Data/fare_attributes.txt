@@ -1,0 +1,9 @@
+agency_id,fare_id,price,currency_type,payment_method,transfers,transfer_duration
+61,1669,1,USD,0,0,
+61,1667,1.5,USD,0,0,
+61,1670,5,USD,0,0,
+61,1718,2,USD,0,0,
+61,1672,3,USD,0,,
+61,1671,6.25,USD,0,,
+61,1668,2.5,USD,0,,
+61,1673,3.75,USD,0,0,

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>2010 Census Block Groups</title>
+<onlink>https://maps.deschutes.org/arcgis/rest/services/OpenData/CensusFD/MapServer/1</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>2010 Deschutes County, Oregon Census Block Groups. A census block group (BG) is a cluster of census blocks having the same first digit of their four-digit identifying numbers within a census tract. For example, block group 3 (BG 3) within a census tract includes all blocks numbered from 3000 to 3999. BGs generally contain between 600 and 3,000 people, with an optimum size of 1,500 people. Most BGs were delineated by local participants as part of the U.S. Census Bureau's Participant Statistical Areas Program.&#13;
+&#13;
+Notes: These 7 fields are mutually exclusive. Use them if you need the sum of the race categories to equal total population. NH_WHITE_O Not Hispanic or Latino: Population of one race: White alone NH_BLACK_O Not Hispanic or Latino: Population of one race: Black or African American alone NH_AIAN_ON Not Hispanic or Latino: Population of one race: American Indian and Alaska Native alone NH_ASIAN_O Not Hispanic or Latino: Population of one race: Asian alone NH_NHOPI_O Not Hispanic or Latino: Population of one race: Native Hawaiian and Other Pacific Islander alone NH_OTHER Not Hispanic or Latino: Population of one race: Some Other Race alone NH_TWO_OR_ Not Hispanic or Latino: Population of two or more races&#13;
+&#13;
+  Use these fields to include all people who chose the specific race. For example, 30% of Oregonians who chose &amp;quot;&amp;quot;Black or African American&amp;quot;&amp;quot; also chose another race and some also chose Hispanic, so the NH_BLACK_O field under reports the African American population. The sum of these fields may exceed total population.WH_AOIC White alone or in combination with one or more other races BL_AOIC Black or African American alone or in combination with one or more other races AIAN_AOIC American Indian and Alaska Native alone or in combination with one or more other races ASN_AOIC Asian alone or in combination with one or more other races NHOPI_AOIC Native Hawaiian and Other Pacific Islander alone or in combination with one or more other races OTH_AOIC Some Other Race alone or in combination with one or more other races.</abstract>
+<purpose>2010 Census Block Groups in Deschutes County, Oregon.</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-122.0027</westbc>
+<eastbc>-119.8964</eastbc>
+<northbc>44.3934</northbc>
+<southbc>43.6102</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Deschutes County</themekey>
+<themekey>Oregon</themekey>
+<themekey>Census</themekey>
+<themekey>Census Block Groups</themekey>
+<themekey>2010</themekey>
+<themekey>Open Data</themekey>
+<themekey>Census Feature Dataset</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>The information and maps accessed through this web site provide a visual display for your convenience. Every reasonable effort has been made to assure the accuracy of the maps and associated data. Deschutes County makes no warranty, representation or guarantee as to the content, sequence, accuracy, timeliness or completeness of any of the data provided herein. Deschutes County explicitly disclaims any representations and warranties, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose. Deschutes County shall assume no liability for any errors, omissions, or inaccuracies in the information provided regardless of how caused. Deschutes County assumes no liability for any decisions made or actions taken or not taken by the user of this information or data furnished hereunder.</useconst>
+<datacred>Deschutes County - Information Technology</datacred>
+</idinfo>
+<eainfo>
+<detailed>
+<attr>
+<attrlabl>STATEFP10</attrlabl>
+<attrdef>State code, two characters (Oregon = 41).</attrdef>
+</attr>
+<attr>
+<attrlabl>COUNTY</attrlabl>
+<attrdef>County code, three characters, (Deschutes = 017).</attrdef>
+</attr>
+<attr>
+<attrlabl>CNTY_NAME</attrlabl>
+<attrdef>County name.</attrdef>
+</attr>
+<attr>
+<attrlabl>BLOCKGR</attrlabl>
+<attrdef>Block Group Code.</attrdef>
+</attr>
+<attr>
+<attrlabl>HU</attrlabl>
+<attrdef>Total housing units.</attrdef>
+</attr>
+<attr>
+<attrlabl>HU_OCC</attrlabl>
+<attrdef>Occupied housing units.</attrdef>
+</attr>
+<attr>
+<attrlabl>POP</attrlabl>
+<attrdef>Total population of the block group.</attrdef>
+</attr>
+<attr>
+<attrlabl>POP_017</attrlabl>
+<attrdef>Population age 0-17.</attrdef>
+</attr>
+<attr>
+<attrlabl>POP18PLUS</attrlabl>
+<attrdef>Population age 18 and over.</attrdef>
+</attr>
+<attr>
+<attrlabl>HISP</attrlabl>
+<attrdef>Population Hispanic or Latino.</attrdef>
+</attr>
+<attr>
+<attrlabl>NH_WHITE_O</attrlabl>
+<attrdef>Not Hispanic or Latino: Population of one race: White alone.</attrdef>
+</attr>
+<attr>
+<attrlabl>NH_BLACK_O</attrlabl>
+<attrdef>Not Hispanic or Latino: Population of one race: Black or African American alone.</attrdef>
+</attr>
+<attr>
+<attrlabl>NH_AIAN_ON</attrlabl>
+<attrdef>Not Hispanic or Latino: Population of one race: American Indian and Alaska Native alone.</attrdef>
+</attr>
+<attr>
+<attrlabl>NH_ASIAN_O</attrlabl>
+<attrdef>Not Hispanic or Latino: Population of one race: Asian alone.</attrdef>
+</attr>
+<attr>
+<attrlabl>NH_NHOPI_O</attrlabl>
+<attrdef>Not Hispanic or Latino: Population of one race: Native Hawaiian and Other Pacific Islander alone.</attrdef>
+</attr>
+<attr>
+<attrlabl>NH_OTHER</attrlabl>
+<attrdef>Not Hispanic or Latino: Population of one race: Some Other Race alone.</attrdef>
+</attr>
+<attr>
+<attrlabl>NH_TWO_OR</attrlabl>
+<attrdef>Not Hispanic or Latino: Population of two or more races.</attrdef>
+</attr>
+<attr>
+<attrlabl>WH_AOIC</attrlabl>
+<attrdef>White alone or in combination with one or more other races.</attrdef>
+</attr>
+<attr>
+<attrlabl>BL_AOIC</attrlabl>
+<attrdef>Black or African American alone or in combination with one or more other races.</attrdef>
+</attr>
+<attr>
+<attrlabl>AIAN_AOIC</attrlabl>
+<attrdef>American Indian and Alaska Native alone or in combination with one or more other races.</attrdef>
+</attr>
+<attr>
+<attrlabl>ASN_AOIC</attrlabl>
+<attrdef>Asian alone or in combination with one or more other races.</attrdef>
+</attr>
+<attr>
+<attrlabl>NHOPI_AOIC</attrlabl>
+<attrdef>Native Hawaiian and Other Pacific Islander alone or in combination with one or more other races.</attrdef>
+</attr>
+<attr>
+<attrlabl>OTH_AOIC</attrlabl>
+<attrdef>Some Other Race alone or in combination with one or more other races.</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<metainfo>
+<metd>20150817</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+<cntaddr>
+<addrtype>unknown</addrtype>
+<country>AF</country>
+</cntaddr>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

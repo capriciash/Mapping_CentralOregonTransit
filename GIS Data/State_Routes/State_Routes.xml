@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>State Routes</title>
+<onlink>https://maps.deschutes.org/arcgis/rest/services/OpenData/TransportationFD/MapServer/5</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This line feature class shows state routes in Deschutes County, Oregon.</abstract>
+<purpose>State Routes in Deschutes County, Oregon.</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-121.8097</westbc>
+<eastbc>-120.1628</eastbc>
+<northbc>44.3934</northbc>
+<southbc>43.6112</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Deschutes County</themekey>
+<themekey>Oregon</themekey>
+<themekey>State Routes</themekey>
+<themekey>Open Data</themekey>
+<themekey>Transportation Feature Dataset</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>The information and maps accessed through this web site provide a visual display for your convenience. Every reasonable effort has been made to assure the accuracy of the maps and associated data. Deschutes County makes no warranty, representation or guarantee as to the content, sequence, accuracy, timeliness or completeness of any of the data provided herein. Deschutes County explicitly disclaims any representations and warranties, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose. Deschutes County shall assume no liability for any errors, omissions, or inaccuracies in the information provided regardless of how caused. Deschutes County assumes no liability for any decisions made or actions taken or not taken by the user of this information or data furnished hereunder.</useconst>
+<datacred>Deschutes County - Road Department</datacred>
+</idinfo>
+<eainfo>
+<detailed>
+<attr>
+<attrlabl>ROAD</attrlabl>
+<attrdef>Identifier code.</attrdef>
+</attr>
+<attr>
+<attrlabl>DIR</attrlabl>
+<attrdef>Route cardinal direction.</attrdef>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Name of State route.</attrdef>
+</attr>
+<attr>
+<attrlabl>ALT_DIR</attrlabl>
+<attrdef>Alternate route cardinal direction.</attrdef>
+</attr>
+<attr>
+<attrlabl>LABEL</attrlabl>
+<attrdef>Route text for placing on map.</attrdef>
+</attr>
+<attr>
+<attrlabl>OWNER</attrlabl>
+<attrdef>Route owner/jurisdiction.</attrdef>
+<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>COUNTY</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>COUNTY NON-MAINTAINED</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>PUBLIC</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>PRIVATE</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>OTHER</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>CITY</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>NOT BUILT</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>STATE</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>CITY OF BEND</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>CITY OF REDMOND</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>CIT OF SISTERS</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>UNKNOWN</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>FOREST SERVICE</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>BUREAU OF LAND MANAGEMENT (BLM)</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>RAILROAD</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>CITY OF LA PINE</edomvd>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>CLASS</attrlabl>
+<attrdef>Road classification number.</attrdef>
+<attrdomv>
+					<edom>
+						<edomv>0</edomv>
+						<edomvd>URBAN ARTERIAL</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>URBAN COLLECTOR</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>URBAN LOCAL</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>RURAL ARTERIAL</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>RURAL COLLECTOR</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>RURAL LOCAL</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>FOREST HIGHWAY</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>CITY ARTERIAL</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>CITY COLLECTOR</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>9</edomv>
+						<edomvd>CITY LOCAL</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>UNKNOWN</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>PRIMARY HIGHWAY</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>SECONDARY HIGHWAY</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>ON-OFF RAMP</edomvd>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>STATE_NUMBER</attrlabl>
+<attrdef>State Highway route number.</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<metainfo>
+<metd>20150917</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+<cntaddr>
+<addrtype>unknown</addrtype>
+<country>AF</country>
+</cntaddr>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Emergency Service Locations</title>
+<onlink>https://maps.deschutes.org/arcgis/rest/services/OpenData/PlaceFD/MapServer/0</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This map layer contains point locations for emergency service facilities including police stations, sheriff's offices, fire stations, and hospitals in Deschutes County, Oregon.</abstract>
+<purpose>Emergency Service Locations in Deschutes County, Oregon.</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-121.6602</westbc>
+<eastbc>-121.0175</eastbc>
+<northbc>44.4498</northbc>
+<southbc>43.6648</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Deschutes County</themekey>
+<themekey>Oregon</themekey>
+<themekey>Emergency Service Locations</themekey>
+<themekey>Police</themekey>
+<themekey>Fire</themekey>
+<themekey>Hospital</themekey>
+<themekey>Sheriff</themekey>
+<themekey>Place Feature Dataset</themekey>
+<themekey>Open Data</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>The information and maps accessed through this web site provide a visual display for your convenience. Every reasonable effort has been made to assure the accuracy of the maps and associated data. Deschutes County makes no warranty, representation or guarantee as to the content, sequence, accuracy, timeliness or completeness of any of the data provided herein. Deschutes County explicitly disclaims any representations and warranties, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose. Deschutes County shall assume no liability for any errors, omissions, or inaccuracies in the information provided regardless of how caused. Deschutes County assumes no liability for any decisions made or actions taken or not taken by the user of this information or data furnished hereunder.</useconst>
+<datacred>Deschutes County - E911 Department</datacred>
+</idinfo>
+<eainfo>
+<detailed>
+<attr>
+<attrlabl>EMERGENCY_TYPE</attrlabl>
+<attrdef>Valid Types of Emergency Service Locations.</attrdef>
+<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>FIRE DEPARTMENT</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>POLICE STATION</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>SHERIFF DEPARTMENT</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>HOSPITAL</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>RED CROSS SHELTER</edomvd>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Name of the emergency service facility.</attrdef>
+</attr>
+<attr>
+<attrlabl>ADDRESS</attrlabl>
+<attrdef>Address of the emergency service facility.</attrdef>
+</attr>
+<attr>
+<attrlabl>CITY</attrlabl>
+<attrdef>City in which the emergency service facility is located.</attrdef>
+</attr>
+<attr>
+<attrlabl>TAXLOT</attrlabl>
+<attrdef>Tax lot number of the emergency service facility.</attrdef>
+</attr>
+<attr>
+<attrlabl>SCHOOL</attrlabl>
+<attrdef>Is the facility a school?</attrdef>
+<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>YES</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>NO</edomvd>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAP_LABEL</attrlabl>
+<attrdef>Text to display on a map.</attrdef>
+</attr>
+<attr>
+<attrlabl>POINT_X</attrlabl>
+<attrdef>X - Coordinate in feet</attrdef>
+</attr>
+<attr>
+<attrlabl>POINT_Y</attrlabl>
+<attrdef>Y - Coordinate in feet</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<metainfo>
+<metd>20150819</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+<cntaddr>
+<addrtype>unknown</addrtype>
+<country>AF</country>
+</cntaddr>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

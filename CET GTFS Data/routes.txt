@@ -1,0 +1,21 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+61,4695,,Lava Butte,,3,,,,0,20
+61,740,,Ride The River,,3,http://www.cascadeseasttransit.com/bend-schedule.html,,,0,30
+61,710,1,South 3rd Street,,3,http://www.cascadeseasttransit.com/PDFSchedules/CET_Bend_EXPANSION_folded%20map_FINAL3.pdfhttp://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,FF0000,FFFFFF,0,30
+61,3138,10,Colorado,,3,http://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,7BBE2F,FFFFFF,0,60
+61,716,11,Galveston/14th,,3,http://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,3699C8,FFFFFF,0,60
+61,3137,12,COCC/OSU,,3,http://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,E95325,FFFFFF,0,30
+61,739,18,Mountain Service,,3,http://www.cascadeseasttransit.com/Rt18.html,0099FF,000000,0,
+61,711,2,Brookswood,,3,http://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,51a992,FFFFFF,0,45
+61,524,21,Culver/Madras ,,3,http://www.cascadeseasttransit.com/21.html,326234,ffffff,0,
+61,290,22,Redmond/Madras,,3,http://www.cascadeseasttransit.com/22.html,86b646,ffffff,0,
+61,292,24,Redmond / Bend,,3,http://www.cascadeseasttransit.com/24.html,426caf,ffffff,0,
+61,291,26,Redmond/Prineville,,3,http://www.cascadeseasttransit.com/26.html,FF0000,ffffff,0,
+61,382,28,Sisters/Redmond,,3,http://www.cascadeseasttransit.com/28.html,8a4a95,ffffff,0,
+61,5917,29,Sister/Bend,,3,,,,0,
+61,712,3,Newport ,,3,http://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,0033CC,FFFFFF,0,30
+61,293,30,LaPine/Bend,,3,http://www.cascadeseasttransit.com/30.html,ea9e31,000000,0,
+61,713,4,North 3rd Street,,3,http://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,6633FF,FFFFFF,0,30
+61,714,5,Wells Acres/Reed Market,,3,http://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,E78B39,FFFFFF,0,45
+61,715,6,Reed Market/Wells Acres,,3,http://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,990099,FFFFFF,0,45
+61,3136,7,Greenwood,,3,http://www.cascadeseasttransit.com/bend-bus-schedule/bend-schedule.html,00542B,FFFFFF,0,30

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<title>Schools</title>
+<onlink>https://maps.deschutes.org/arcgis/rest/services/OpenData/PlaceFD/MapServer/5</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This feature class contains point locations for schools in Deschutes County, Oregon including elementary, middle and high schools, as well as colleges and universities.</abstract>
+<purpose>Schools in Deschutes County, Oregon.</purpose>
+</descript>
+<spdom>
+<bounding>
+<westbc>-121.5759</westbc>
+<eastbc>-121.1657</eastbc>
+<northbc>44.3519</northbc>
+<southbc>43.6758</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Deschutes County</themekey>
+<themekey>Oregon</themekey>
+<themekey>Schools</themekey>
+<themekey>Open Data</themekey>
+<themekey>Place Feature Dataset</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>The information and maps accessed through this web site provide a visual display for your convenience. Every reasonable effort has been made to assure the accuracy of the maps and associated data. Deschutes County makes no warranty, representation or guarantee as to the content, sequence, accuracy, timeliness or completeness of any of the data provided herein. Deschutes County explicitly disclaims any representations and warranties, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose. Deschutes County shall assume no liability for any errors, omissions, or inaccuracies in the information provided regardless of how caused. Deschutes County assumes no liability for any decisions made or actions taken or not taken by the user of this information or data furnished hereunder.</useconst>
+<datacred>Deschutes County - Information Technology</datacred>
+</idinfo>
+<eainfo>
+<detailed>
+<attr>
+<attrlabl>SCHOOL_TYPE</attrlabl>
+<attrdef>Type of school</attrdef>
+<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>ELEMENTARY</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>ELEMENTARY_MIDDLE</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>MIDDLE</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>HIGH</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>COLLEGE</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>UNIVERSITY</edomvd>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>DISTRICT</attrlabl>
+<attrdef>School district zone to which the school belongs.</attrdef>
+<attrdomv>
+					<edom>
+						<edomv>601</edomv>
+						<edomvd>BEND/LA PINE SCHOOL DISTRICT #1</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>620</edomv>
+						<edomvd>REDMOND SCHOOL DISTRICT #2J</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>630</edomv>
+						<edomvd>CROOK COUNTY SCHOOL DISTRICT #15</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>640</edomv>
+						<edomvd>SISTERS SCHOOL DISTRICT #6</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>660</edomv>
+						<edomvd>STATE OF OREGON</edomvd>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>SCHOOL</attrlabl>
+<attrdef>Name of the school.</attrdef>
+</attr>
+<attr>
+<attrlabl>CONTACT</attrlabl>
+<attrdef>Name of a contact person at the school.</attrdef>
+</attr>
+<attr>
+<attrlabl>ADDRESS</attrlabl>
+<attrdef>Address of the school.</attrdef>
+</attr>
+<attr>
+<attrlabl>PHONE</attrlabl>
+<attrdef>Phone number for the school.</attrdef>
+</attr>
+<attr>
+<attrlabl>FAX</attrlabl>
+<attrdef>Fascimile number of the school.</attrdef>
+</attr>
+<attr>
+<attrlabl>MAGNET</attrlabl>
+<attrdef>Is the school a Magnet school?</attrdef>
+<attrdomv>
+					<edom>
+						<edomv>Y</edomv>
+						<edomvd>YES</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>NO</edomvd>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>MAGNET_NAME</attrlabl>
+<attrdef>Magnet school name if the school is a magnet school.</attrdef>
+</attr>
+<attr>
+<attrlabl>MAP_LABEL</attrlabl>
+<attrdef>Text for labeling school on a map.</attrdef>
+</attr>
+</detailed>
+</eainfo>
+<metainfo>
+<metd>20150827</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+<cntaddr>
+<addrtype>unknown</addrtype>
+<country>AF</country>
+</cntaddr>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

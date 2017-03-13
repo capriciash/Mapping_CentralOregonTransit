@@ -1,0 +1,60 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,525,0,20140101,20180101,1,1,1,1,1,0,0,Airporter ,Year Round Service,Outbound ,horizontal
+2,525,1,20140101,20180101,1,1,1,1,1,0,0,Airporter ,Year Round Service,Inbound,horizontal
+3,711,0,20140101,20180101,0,0,0,0,0,1,0,Brookswood,Year Round Service,Outbound ,horizontal
+4,711,0,20140101,20180101,1,1,1,1,1,0,0,Brookswood,Year Round Service,Outbound ,horizontal
+5,711,1,20140101,20180101,0,0,0,0,0,1,0,Brookswood,Year Round Service,Inbound,horizontal
+6,711,1,20140101,20180101,1,1,1,1,1,0,0,Brookswood,Year Round Service,Inbound,horizontal
+7,3137,0,20140101,20180101,1,1,1,1,1,0,0,COCC-OSU,Year Round Service,No direction,horizontal
+8,3138,0,20140101,20180101,1,1,1,1,1,0,0,Colorado,Year Round Service,No direction,horizontal
+9,524,0,20140101,20180101,1,1,1,1,1,0,0,Culver-Madras ,Year Round Service,Southbound,horizontal
+10,524,1,20140101,20180101,1,1,1,1,1,0,0,Culver-Madras ,Year Round Service,Northbound,horizontal
+11,524,0,20170101,20170205,1,1,1,1,1,0,0,Culver-Madras ,Ending 2-5-2017,Southbound,horizontal
+12,524,1,20170101,20170205,1,1,1,1,1,0,0,Culver-Madras ,Ending 2-5-2017,Northbound,horizontal
+13,716,0,20140101,20180101,0,0,0,0,0,1,0,Galveston-14th,Year Round Service,No direction,horizontal
+14,716,0,20140101,20180101,1,1,1,1,1,0,0,Galveston-14th,Year Round Service,No direction,horizontal
+15,3136,0,20140101,20180101,0,0,0,0,0,1,0,Greenwood,Year Round Service,No direction,horizontal
+16,3136,0,20140101,20180101,1,1,1,1,1,0,0,Greenwood,Year Round Service,No direction,horizontal
+17,293,0,20170101,20170205,1,1,1,1,1,0,0,LaPine-Bend,Ending 2-5-2017,Southbound,horizontal
+18,293,1,20170101,20170205,1,1,1,1,1,0,0,LaPine-Bend,Ending 2-5-2017,Northbound,horizontal
+19,293,0,20170206,20180101,1,1,1,1,1,0,0,LaPine-Bend,Starting 2-6-2017,Southbound,horizontal
+20,293,1,20170206,20180101,1,1,1,1,1,0,0,LaPine-Bend,Starting 2-6-2017,Northbound,horizontal
+21,4695,0,20140101,20180101,1,1,1,1,1,1,1,Lava Butte,Year Round Service,No direction,horizontal
+22,739,0,20161217,20170416,0,1,0,1,0,1,1,Mountain Service,Mt. Bachelor Winter Service,Up the Mountain,horizontal
+23,739,0,20161217,20170416,1,0,1,0,1,0,0,Mountain Service,Mt. Bachelor Winter Service,Up the Mountain,horizontal
+24,739,0,20161217,20170416,1,1,1,1,1,1,1,Mountain Service,Mt. Bachelor Winter Service,Up the Mountain,horizontal
+25,739,1,20161217,20170416,0,1,0,1,0,1,1,Mountain Service,Mt. Bachelor Winter Service,Down the Mountain,horizontal
+26,739,1,20161217,20170416,1,0,1,0,1,0,0,Mountain Service,Mt. Bachelor Winter Service,Down the Mountain,horizontal
+27,739,1,20161217,20170416,1,1,1,1,1,1,1,Mountain Service,Mt. Bachelor Winter Service,Down the Mountain,horizontal
+28,712,0,20140101,20180101,0,0,0,0,0,1,0,Newport ,Year Round Service,No direction,horizontal
+29,712,0,20140101,20180101,1,1,1,1,1,0,0,Newport ,Year Round Service,No direction,horizontal
+30,713,0,20140101,20180101,0,0,0,0,0,1,0,North 3rd Street,Year Round Service,Outbound ,horizontal
+31,713,0,20140101,20180101,1,1,1,1,1,0,0,North 3rd Street,Year Round Service,Outbound ,horizontal
+32,713,1,20140101,20180101,0,0,0,0,0,1,0,North 3rd Street,Year Round Service,Inbound,horizontal
+33,713,1,20140101,20180101,1,1,1,1,1,0,0,North 3rd Street,Year Round Service,Inbound,horizontal
+34,292,0,20170101,20170205,1,1,1,1,1,0,0,Redmond - Bend,Ending 2-5-2017,Southbound,horizontal
+35,292,1,20170101,20170205,1,1,1,1,1,0,0,Redmond - Bend,Ending 2-5-2017,Northbound,horizontal
+36,292,0,20170206,20180101,1,1,1,1,1,0,0,Redmond - Bend,Starting 2-6-2017,Southbound,horizontal
+37,292,1,20170206,20180101,1,1,1,1,1,0,0,Redmond - Bend,Starting 2-6-2017,Northbound,horizontal
+38,290,0,20170101,20170205,1,1,1,1,1,0,0,Redmond-Madras,Ending 2-5-2017,Southbound,horizontal
+39,290,1,20170101,20170205,1,1,1,1,1,0,0,Redmond-Madras,Ending 2-5-2017,Northbound,horizontal
+40,290,0,20170206,20180101,1,1,1,1,1,0,0,Redmond-Madras,Starting 2-6-2017,Southbound,horizontal
+41,290,1,20170206,20180101,1,1,1,1,1,0,0,Redmond-Madras,Starting 2-6-2017,Northbound,horizontal
+42,291,0,20170101,20170205,1,1,1,1,1,0,0,Redmond-Prineville,Ending 2-5-2017,Eastbound,horizontal
+43,291,1,20170101,20170205,1,1,1,1,1,0,0,Redmond-Prineville,Ending 2-5-2017,Westbound,horizontal
+44,291,0,20170206,20180101,1,1,1,1,1,0,0,Redmond-Prineville,Starting 2-6-2017,Eastbound,horizontal
+45,291,1,20170206,20180101,1,1,1,1,1,0,0,Redmond-Prineville,Starting 2-6-2017,Westbound,horizontal
+46,715,0,20161212,20171130,0,0,0,0,0,1,0,Reed Market-Wells Acres,Route 6 - Construction Detour,No direction,horizontal
+47,715,0,20161212,20171130,1,1,1,1,1,0,0,Reed Market-Wells Acres,Route 6 - Construction Detour,No direction,horizontal
+48,715,0,20171201,20180101,0,0,0,0,0,1,0,Reed Market-Wells Acres,Route 6 - Normal Routing,No direction,horizontal
+49,715,0,20171201,20180101,1,1,1,1,1,0,0,Reed Market-Wells Acres,Route 6 - Normal Routing,No direction,horizontal
+50,5917,0,20170206,20180101,1,1,1,1,1,0,0,Sister-Bend,Starting 2-6-2017,No direction,horizontal
+51,382,0,20170101,20170205,1,1,1,1,1,0,0,Sisters-Redmond,Ending 2-5-2017,No direction,horizontal
+52,382,0,20170206,20180101,1,1,1,1,1,0,0,Sisters-Redmond,Starting 2-6-2017,No direction,horizontal
+53,710,0,20140101,20180101,0,0,0,0,0,1,0,South 3rd Street,Year Round Service,Outbound ,horizontal
+54,710,0,20140101,20180101,1,1,1,1,1,0,0,South 3rd Street,Year Round Service,Outbound ,horizontal
+55,710,1,20140101,20180101,0,0,0,0,0,1,0,South 3rd Street,Year Round Service,Inbound,horizontal
+56,710,1,20140101,20180101,1,1,1,1,1,0,0,South 3rd Street,Year Round Service,Inbound,horizontal
+57,3225,0,20140101,20180101,1,1,1,1,1,0,0,Warm Springs-Madras,Year Round Service,No direction,horizontal
+58,714,0,20140101,20180101,0,0,0,0,0,1,0,Wells Acres-Reed Market,Year Round Service,No direction,horizontal
+59,714,0,20140101,20180101,1,1,1,1,1,0,0,Wells Acres-Reed Market,Year Round Service,No direction,horizontal
